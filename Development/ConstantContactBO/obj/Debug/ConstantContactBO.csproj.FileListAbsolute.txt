@@ -1,0 +1,6 @@
+d:\ec_sample\ASP Upload Forms EC\output\Debug\ConstantContactBO.XML
+d:\ec_sample\ASP Upload Forms EC\output\Debug\ConstantContactBO.dll
+d:\ec_sample\ASP Upload Forms EC\output\Debug\ConstantContactBO.pdb
+d:\ec_sample\ASP Upload Forms EC\Development\ConstantContactBO\obj\Debug\ResolveAssemblyReference.cache
+d:\ec_sample\ASP Upload Forms EC\Development\ConstantContactBO\obj\Debug\ConstantContactBO.dll
+d:\ec_sample\ASP Upload Forms EC\Development\ConstantContactBO\obj\Debug\ConstantContactBO.pdb

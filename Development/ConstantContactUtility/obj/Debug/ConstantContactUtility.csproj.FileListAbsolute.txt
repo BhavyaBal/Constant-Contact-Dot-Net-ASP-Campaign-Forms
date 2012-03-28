@@ -1,0 +1,6 @@
+d:\ec_sample\ASP Upload Forms EC\output\Debug\ConstantContactUtility.XML
+d:\ec_sample\ASP Upload Forms EC\output\Debug\ConstantContactUtility.dll
+d:\ec_sample\ASP Upload Forms EC\output\Debug\ConstantContactUtility.pdb
+d:\ec_sample\ASP Upload Forms EC\Development\ConstantContactUtility\obj\Debug\ResolveAssemblyReference.cache
+d:\ec_sample\ASP Upload Forms EC\Development\ConstantContactUtility\obj\Debug\ConstantContactUtility.dll
+d:\ec_sample\ASP Upload Forms EC\Development\ConstantContactUtility\obj\Debug\ConstantContactUtility.pdb
